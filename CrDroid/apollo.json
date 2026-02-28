@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "Murtaza Kolachi",
+            "oem": "Xiaomi",
+            "device": "Xiaomi Mi 10T/PRO",
+            "filename": "crDroidAndroid-16.0-20260227-apollo-v12.7.zip",
+            "download": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/CrDroid/crDroidAndroid-16.0-20260227-apollo-v12.7.zip/download",
+            "timestamp": 1772184317,
+            "md5": "3990934dcdecd232c84287c192ee6f85",
+            "sha256": "4ce2d2fd1da7ddcae1478593c9b289f65fc6929eed72ef81e4bd17af6d2bc9ed",
+            "size": 1671435519,
+            "version": "12.7",
+            "buildtype": "Weekly",
+            "forum": "https://t.me/murtazasapollocommunity",
+            "gapps": "https://nikgapps.com/crdroid-official",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/CrDroid/recovery.img/download",
+            "paypal": "https://www.patreon.com/c/MurtazaKolachi",
+            "telegram": "https://t.me/MurtazaKolachi",
+            "dt": "https://github.com/MurtazaKolachi/device_xiaomi_apollo",
+            "common-dt": "",
+            "kernel": "https://github.com/MurtazaKolachi/kernel_xiaomi_apollo"
+        }
+    ]
+}

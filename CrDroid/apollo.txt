@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Mi 10T/PRO (apollo)
+Device maintainer: Murtaza Kolachi
+
+===== 21-02-2026 =====
+
+* Camera: Fixed processing delays on Mi 10T Pro.
+* Audio: Fresh New Dolby UI (same great sound, new look).
+* System: Under-the-hood refinements for better stability.
