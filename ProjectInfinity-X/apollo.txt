@@ -1,0 +1,16 @@
+🚀 New Update is Live!
+Hello friend, hope you are doing good!
+
+📅 Build Date: 15/01/2026
+
+🛠 Changelog:
+- Camera: Fixed processing delays on Mi 10T Pro.
+- Audio: Fresh New Dolby UI (same great sound, new look).
+- System: Under-the-hood refinements for better stability.
+
+⚠️ Important Notes:
+- Clean Flash is highly recommended for this build.
+- You must use FBEv2 Recovery to flash this update.
+
+🐛 Bug Reports: If you face any issues, please drop a message in the Support Group.
+Note: Please include logs with your report so we can help you faster!
