@@ -1,0 +1,9 @@
+AxionOS v2.5
+Build date: 10/04/2026
+Device changelogs:
+- Migrate to new Dolby Atmos
+- Update WFD system blobs from dada OS2.0.217.0.WOCMIXM
+- Shim WFD with libinput_shim
+- Define TARGET_SUPPORTED_REFRESH_RATES
+- Drop viperfx
+- Improve overall smoothness of UI
