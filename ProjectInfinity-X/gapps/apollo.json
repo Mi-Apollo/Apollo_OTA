@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.8-apollo-08.03.2026-GAPPS-UNOFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/InfinityX/Project_Infinity-X-3.8-apollo-08.03.2026-GAPPS-UNOFFICIAL.zip",
-			"timestamp": 1772997486,
-			"md5": "b5e56f72bb2d0bcef4070b13441f1bd5",
-			"size": 2018390641,
-			"version": "3.8"
+			"filename": "Project_Infinity-X-3.11-apollo-07.06.2026-GAPPS-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/InfinityX/Project_Infinity-X-3.11-apollo-07.06.2026-GAPPS-UNOFFICIAL.zip",
+			"timestamp": 1780862142,
+			"md5": "4522d17309922f4919060ec9a032d6d6",
+			"size": 2132951865,
+			"version": "3.11"
 		}
 	]
 }
