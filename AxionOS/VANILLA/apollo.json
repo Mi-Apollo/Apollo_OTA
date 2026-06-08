@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1775823792,
-            "filename": "axion-2.5-REVERIE-20260410-UNOFFICIAL-VANILLA-apollo.zip",
-            "id": "40a034051ecab350fadb6b45c7338e13",
+            "datetime": 1780878846,
+            "filename": "axion-2.7-PROXIMA_BETA-20260608-UNOFFICIAL-VANILLA-apollo.zip",
+            "id": "c62cecf87404daae49d46e948ef290e5",
             "romtype": "UNOFFICIAL",
-            "size": 1882750626,
-            "url": "https://github.com/Mi-Apollo/custom_rom_releases/releases/download/axionos/axion-2.5-REVERIE-20260410-UNOFFICIAL-VANILLA-apollo.zip",
-            "version": "2.5"
+            "size": 1935960708,
+            "url": "https://github.com/Mi-Apollo/axionos_releases/releases/download/2.7/axion-2.7-PROXIMA_BETA-20260608-UNOFFICIAL-VANILLA-apollo.zip",
+            "version": "2.7"
         }
     ]
 }
