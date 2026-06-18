@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1780878846,
-            "filename": "axion-2.7-PROXIMA_BETA-20260608-UNOFFICIAL-VANILLA-apollo.zip",
-            "id": "c62cecf87404daae49d46e948ef290e5",
+            "datetime": 1781630984,
+            "filename": "axion-2.7-PROXIMA_BETA-20260616-UNOFFICIAL-VANILLA-apollo.zip",
+            "id": "dd089c33d02eee362a8f2d090fe8505c",
             "romtype": "UNOFFICIAL",
-            "size": 1935960708,
-            "url": "https://github.com/Mi-Apollo/axionos_releases/releases/download/2.7/axion-2.7-PROXIMA_BETA-20260608-UNOFFICIAL-VANILLA-apollo.zip",
+            "size": 1932619455,
+            "url": "https://github.com/Mi-Apollo/axionos_releases/releases/download/2.7/axion-2.7-PROXIMA_BETA-20260616-UNOFFICIAL-VANILLA-apollo.zip",
             "version": "2.7"
         }
     ]
