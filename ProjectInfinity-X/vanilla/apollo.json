@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-            "filename": "Project_Infinity-X-3.11-apollo-07.06.2026-VANILLA-UNOFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/InfinityX/Project_Infinity-X-3.11-apollo-07.06.2026-VANILLA-UNOFFICIAL.zip",
-			"timestamp": 1780861435,
-			"md5": "4af8652a5cc99da9375a02661147124f",
-			"size": 1749786183,
-			"version": "3.11"
+            "filename": "Project_Infinity-X-3.12-apollo-14.07.2026-VANILLA-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/InfinityX/Project_Infinity-X-3.12-apollo-14.07.2026-VANILLA-UNOFFICIAL.zip",
+			"timestamp": 1783992438,
+			"md5": "ac5b14fec6134c5a72014cc159151d1d",
+			"size": 1797116032,
+			"version": "3.12"
 		}
 	]
 }
