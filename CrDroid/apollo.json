@@ -1,30 +1,30 @@
 {
-    "response": [
-        {
-            "maintainer": "Murtaza Kolachi",
-            "oem": "Xiaomi",
-            "device": "Xiaomi Mi 10T/PRO",
-            "filename": "crDroidAndroid-16.0-20261001-apollo-v12.12.zip",
-            "download": "https://github.com/Mi-Apollo/crdroid_releases/releases/download/12.12/crDroidAndroid-16.0-20261001-apollo-v12.12.zip",
-            "timestamp": 1790880378,
-            "md5": "6098139cda1b806f50f3163384a78377",
-            "sha256": "b0fc02447600eeb7c0e6bdac6ae9dbb0db4f0573e0990f1415f4af49f5a09cb6",
-            "size": 1765354225,
-            "version": "12.12",
-            "os_patch_level": "2026-09-01",
-            "os_sdk_level": 36,
-            "buildtype": "Monthly",
-            "forum": "https://t.me/murtazasapollocommunity",
-            "gapps": "https://nikgapps.com/crdroid-official",
-            "firmware": "",
-            "modem": "",
-            "bootloader": "",
-            "recovery": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/CrDroid/recovery.img/download",
-            "paypal": "https://www.patreon.com/c/MurtazaKolachi",
-            "telegram": "https://t.me/MurtazaKolachi",
-            "dt": "https://github.com/MurtazaKolachi/device_xiaomi_apollo",
-            "common-dt": "",
-            "kernel": "https://github.com/MurtazaKolachi/kernel_xiaomi_apollo"
-        }
-    ]
+  "response": [
+    {
+      "maintainer": "Murtaza Kolachi",
+      "oem": "Xiaomi",
+      "device": "Xiaomi Mi 10T/PRO",
+      "filename": "crDroidAndroid-17.0-20261017-apollo-v13.0.zip",
+      "download": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/CrDroid/crDroidAndroid-17.0-20261017-apollo-v13.0.zip/download",
+      "timestamp": 1792274170,
+      "md5": "4c1803efd79afb8c19a4296dbb028b22",
+      "sha256": "7144bf38f5a81a16d82e368a2f9b1b36e937e9877c85ba3336fcdd278ba49a24",
+      "size": 2239498532,
+      "version": "13.0",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 37,
+      "buildtype": "Monthly",
+      "forum": "https://t.me/murtazasapollocommunity",
+      "gapps": "https://nikgapps.com/crdroid-official",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/CrDroid/recovery.img/download",
+      "paypal": "https://www.patreon.com/c/MurtazaKolachi",
+      "telegram": "https://t.me/MurtazaKolachi",
+      "dt": "https://github.com/MurtazaKolachi/device_xiaomi_apollo",
+      "common-dt": "",
+      "kernel": "https://github.com/MurtazaKolachi/kernel_xiaomi_apollo"
+    }
+  ]
 }
