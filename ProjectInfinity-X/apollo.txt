@@ -1,12 +1,22 @@
 🚀 New Update is Live!
 Hello friend, hope you are doing good!
 
-📅 Build Date: 15/01/2026
+📅 Build Date: 26/10/2026
 
-🛠 Changelog:
-- Camera: Fixed processing delays on Mi 10T Pro.
-- Audio: Fresh New Dolby UI (same great sound, new look).
-- System: Under-the-hood refinements for better stability.
+🛠 Device Changelog:
+- Audio: Fix Dolby DAP and spatializer configuration & UUID
+- Audio: Align audio effects and silence media codec logcat spam
+- Camera: Import MiuiCamera support and vendor camera postproc libraries
+- Camera: Add ABI compatibility stubs & blob fixups for ArcSoft refocus & IMS
+- Camera: Label Qualcomm JPEG encoder for applications
+- Display: Switch to vendor-defined color modes
+- Charging: Add fast charging support & sysfs ownership setup
+- Thermal: Enable QTI thermal HAL service & align thermal/networking with stock
+- Sensors: Add blob fixup for ultrasound sensor poll timeout
+- Init: Add support for hiding device product name & mod_device
+- Sepolicy: Comprehensive SELinux denial fixes and cleanup
+- Performance: Tune HWUI, SurfaceFlinger, and Dalvik properties
+- System: Clean up legacy overlays and pinner configuration
 
 ⚠️ Important Notes:
 - Clean Flash is highly recommended for this build.
